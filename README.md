@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nuno Costa</h1>
+<h1 align="left">Hi :stuck_out_tongue_winking_eye: I'm Nuno Costa</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nuno-costa-705795232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuno-costa-705795232" height="30" width="40" /></a>
