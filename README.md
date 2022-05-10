@@ -9,3 +9,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+## 1º Ano - 1º Semestre:
+#### Programação Funcional - [Exercícios](https://github.com/Nuno23C/PF-Haskell)
+
+## 1º Ano - 2º Semestre:
+#### Programação Imperativa - [Exercícios](https://github.com/Nuno23C/PI-C)
+### Projeto:
+#### Stack-oriented programming language interpreter
+#### Laboratórios de Algoritmia I - [Projeto](https://github.com/SimaoQuintela/CCPL2G01) 
+
+## 2º Ano - 1º Semestre:
+#### Algoritmos e Complexidade - [Exercícios](https://github.com/Nuno23C/AeC)
+
+## 2º Ano - 2º Semestre:
+#### Programação Orientada aos Objetos - [Exercícios](https://github.com/Nuno23C/POO)
+#### Laboratórios de Algoritmia 2 - [Exercícios](https://github.com/Nuno23C/LA2)
