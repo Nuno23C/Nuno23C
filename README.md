@@ -15,13 +15,13 @@
 ## 1º Ano - 2º Semestre:
 #### Programação Imperativa - [Exercícios](https://github.com/Nuno23C/PI-C)
 #### Laboratórios de Algoritmia I:
-### Stack-oriented programming language interpreter - [Projeto](https://github.com/SimaoQuintela/CCPL2G01) 
+## Stack-oriented programming language interpreter - [Projeto](https://github.com/SimaoQuintela/CCPL2G01) 
 
 ## 2º Ano - 1º Semestre:
 #### Algoritmos e Complexidade - [Exercícios](https://github.com/Nuno23C/AeC)
 
 ## 2º Ano - 2º Semestre:
-#### Programação Orientada aos Objetos:
-### [Exercícios](https://github.com/Nuno23C/POO)
-### [Projeto](https://github.com/Nuno23C/Projeto-POO)
 #### Laboratórios de Algoritmia 2 - [Exercícios](https://github.com/Nuno23C/LA2)
+#### Programação Orientada aos Objetos:
+## [Exercícios](https://github.com/Nuno23C/POO)
+## [Projeto](https://github.com/Nuno23C/Projeto-POO)
