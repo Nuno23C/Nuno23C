@@ -24,3 +24,4 @@
 ## 2º Ano - 2º Semestre:
 #### Laboratórios de Algoritmia 2 - [Exercícios](https://github.com/Nuno23C/LA2)
 #### Programação Orientada aos Objetos - [Exercícios](https://github.com/Nuno23C/POO) - [Projeto](https://github.com/Nuno23C/Projeto-POO)
+#### Cálculo de Programas - [Projeto](https://github.com/Nuno23C/Projeto-CP)
