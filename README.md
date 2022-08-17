@@ -8,4 +8,4 @@
 
 ### Check my [WebPage](https://nunorocosta.com/)
 
-## My college projects and solved exercises :mortar_board: [University](https://github.com/Nuno23C/University)
+#### My college projects and solved exercises :mortar_board: [University](https://github.com/Nuno23C/University)
