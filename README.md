@@ -11,4 +11,4 @@
 
 ### My college projects and solved exercises :mortar_board: [University](https://github.com/Nuno23C/University)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&&theme=dark)](https://github.com/Nuno23C/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno23C&layout=compact&theme=dark)
