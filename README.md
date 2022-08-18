@@ -7,7 +7,7 @@
 <a href="https://instagram.com/nuno23costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuno23costa" height="30" width="40" /></a>
 </p>
 
-### Check my personal WebPage :arrow_right: nunorocosta.com
+### Check my personal WebPage :arrow_right: [nunorocosta.com](https://nunorocosta.com/)
 
 ### :mortar_board: My university projects and solved exercises :arrow_right: [University](https://github.com/Nuno23C/University)
 
