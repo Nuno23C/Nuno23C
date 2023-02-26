@@ -9,6 +9,6 @@
 
 ### Check my personal WebPage :arrow_right: [nunorocosta.com](https://nunorocosta.com/)
 
-### :mortar_board: My university projects and solved exercises :arrow_right: [University](https://github.com/Nuno23C/University)
+### :mortar_board: My college projects and solved exercises :arrow_right: [University](https://github.com/Nuno23C/University)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuno23C&layout=compact&theme=dark)
